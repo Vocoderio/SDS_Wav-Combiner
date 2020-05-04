@@ -4,7 +4,7 @@
 * pydub (pip install pydub)
 * ffmpeg (https://www.ffmpeg.org/download.html)
 
-Change path variable to the location of the folders containing the wav files.  The script will generate one wav file from the multiple wav files in each subfolder.  The single wav file will be saved to the path variable location using the subfolder name.
+Change path variable to the location of the subfolders containing the wav files.  The script will generate one wav file from the multiple wav files in each subfolder.  The single wav file will be saved to the path variable location using the subfolder name.
 
 #### Example
 path = r"C:\temp"
