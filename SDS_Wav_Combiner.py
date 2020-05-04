@@ -9,7 +9,7 @@ import glob
 from pydub import AudioSegment
 
 #File format for export file (mp3, wav, aif, ogg, or raw)
-export_format = "wav"
+export_format = "mp3"
 
 #Path to folder containing subfolders with wav files
 path = r"C:\temp"
