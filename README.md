@@ -2,7 +2,7 @@
 
 #### Dependencies
 * pydub (pip install pydub)
-* ffmpeg (https://www.ffmpeg.org/download.html)
+* ffmpeg (https://www.ffmpeg.org/download.html).  Add ffmpeg.exe location to system PATH variable.
 
 Change path variable to the location of the subfolders containing the wav files.  The script will generate one wav file from the multiple wav files in each subfolder.  The single wav file will be saved to the path variable location using the subfolder name.
 
